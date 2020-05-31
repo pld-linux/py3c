@@ -4,7 +4,7 @@ Version:	1.1
 Release:	1
 License:	MIT
 Group:		Libraries
-Source0:	https://github.com/encukou/py3c/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
+Source0:	https://github.com/encukou/py3c/archive/v%{version}/%{name}-%{version}.tar.gz
 # Source0-md5:	95be2e17f0541de2ba3e1b68dee4a9da
 URL:		https://libbsd.freedesktop.org/
 BuildRequires:	sed >= 4.0
